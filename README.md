@@ -2,7 +2,7 @@
 
 Citation:
 
-S. Warrington, E. Thompson, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, S. N. Sotiropoulos, "Standardised tractography for concurrent mapping of brain ontogeny and phylogeny within a common space", Work in Progress
+S. Warrington, E. Thompson, M. Bastiani, J. Dubois, L. Baxter, R. Slater, S. Jbabdi, R. B. Mars, S. N. Sotiropoulos, "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
 
 microstructure_analysis.ipynb: Jupyter Notebook for neonatal tract maturation (Figure 3). Requires numpy, pandas, seaborn, matplotlib, statsmodels and openpyxl.
 
